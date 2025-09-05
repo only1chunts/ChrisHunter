@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: GigaDB Author Guide
+title: Chris Hunter, Metadata matters
 
 # Your name to show in the footer
-author: GigaScience Press
+author: Chris Hunter
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -30,14 +30,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/gigadb-avatar.png"
+avatar: "/assets/img/CH-gigashirt.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/gigadb-transparent-06.png"
+title-img: "/assets/img/small-logo-tag-line.png"
 
 
 #####################################
@@ -48,16 +48,16 @@ title-img: "/assets/img/gigadb-transparent-06.png"
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "database@gigsciencejournal.com"
+  email: "dr.chris.i.hunter@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: GigaScience
-  github: gigascience
-  twitter: Giga_DB
+#  facebook: 
+  github: only1chunts
+  twitter: only1chunts
 #  patreon: DeanAttali
-  youtube: GigaScienceJournal
+  youtube: only1chunts
 #  medium: yourname
 #  reddit: yourname
-  linkedin: gigascience
+  linkedin: chr1shunter
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -70,8 +70,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0002-1335-0881
+  google-scholar: "https://scholar.google.com/citations?user=ARYT6AYAAAAJ&hl=en"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "GigaDB-Author-Guide"
+url-pretty: "ChrisHunter"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
