@@ -22,7 +22,7 @@ author: Chris Hunter
 navbar-links:
   About Me: "aboutme"
     - Painting: "https://only1chunts.github.io/ChrisHunter/pages/paintings"
-    Resources:
+  Resources:
     - Projects: "https://only1chunts.github.io/ChrisHunter/pages/projects"
     - place-holder: "https://www.tbc"
   Home: "https://only1chunts.github.io/ChrisHunter/"
