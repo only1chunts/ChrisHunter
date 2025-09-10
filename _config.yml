@@ -21,11 +21,10 @@ author: Chris Hunter
 
 navbar-links:
   About Me: "aboutme"
-    - Painting: "https://only1chunts.github.io/ChrisHunter/pages/paintings"
   Resources:
     - Projects: "https://only1chunts.github.io/ChrisHunter/pages/projects"
-    - place-holder: "https://www.tbc"
-  Home: "https://only1chunts.github.io/ChrisHunter/"
+    - Painting: "https://only1chunts.github.io/ChrisHunter/pages/paintings"
+  Author's Home: "https://only1chunts.github.io/ChrisHunter/"
 
 ################
 # --- Logo --- #
