@@ -31,5 +31,12 @@ Map metadata values to reference ontologies. Or map two related/overlapping onto
 Enable integration of multiple metadata tables through relevant key-values in a suitable database schema for ease of index and searching of linked data.
 
 
+# Scrum Product Owner
+If you have a scrum team working on a product that requires an experienced scrum product owner to aid guide the team and interact with all the stakeholders, I can be available on a part time basis.
+
+
+# Simple website creation 
+Using GitHub pages I have created multiple website, including this one! So if you need something relatively simple (that can be achieved using GitHub pages) to showcase yourself or your work I can assist with that.
+
 
 Contact me with your requirements for a estimated cost.
