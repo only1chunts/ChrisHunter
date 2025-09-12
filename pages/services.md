@@ -5,5 +5,31 @@ cover-img: /assets/img/paintings/angus.jpg
 share-img: /assets/img/paintings/angus.jpg
 ---
 
-# place holder
-It is my intension to list a variety of the tasks that I can undertake for a fee and the sorts of projects that I would be suited to.
+Here are some of the services that I can provide on a contract or task basis:
+
+# Data cleaning
+Standardisation of metadata term names to common nomenclature, handle null values consistently, clean typographic and other minor data-entry errors.
+
+
+# Data transformation
+Transform a dataset from one format to another without loss of metadata and with integrity checks to ensure its completness and meaning has been maintained.
+
+
+# Data merging
+When you have multiple sources of data that need to be combined into a single dataset often there are transformations required to make the data the same shape to be able to merge them.
+
+
+# Biocuration tasks
+Extract relevant information on specicif biological artifacts from literature or other sources.
+
+
+# Ontology mapping
+Map metadata values to reference ontologies. Or map two related/overlapping ontologies/controlled vocabularies.
+
+
+# Database Schema design
+Enable integration of multiple metadata tables through relevant key-values in a suitable database schema for ease of index and searching of linked data.
+
+
+
+Contact me with your requirements for a estimated cost.
