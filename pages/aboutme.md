@@ -7,7 +7,7 @@ share-img: /assets/img/paintings/angus.jpg
 
 Here you will find likns to a variety of pages that I am involved with during me spare time.
 
-# [Painting]({{ '/pages/aboutme/paintings)' | relative_url }})
+# [Painting]({{ '/pages/aboutme/paintings' | relative_url }})
 
 I sometimes enjoy picking up a paintbrush and spending a few hours daubing paint onto a canvas, I'm not particularly good at it, but its a fun way to pass the time, especially with a beer and good company.
 
