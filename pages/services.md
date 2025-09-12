@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Services offered
-cover-img: /assets/img/paintings/angus.jpg
-share-img: /assets/img/paintings/angus.jpg
+cover-img: /assets/img/paintings/sailing2.jpg
+share-img: /assets/img/paintings/sailing2.jpg
 ---
 
 Here are some of the services that I can provide on a contract or task basis:
