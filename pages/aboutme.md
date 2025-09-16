@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Exporing my artistic side
+title: The man behind the metadata
 cover-img: /assets/img/paintings/angus.jpg
 share-img: /assets/img/paintings/angus.jpg
 ---
 
-Here you will find likns to a variety of pages that I am involved with during me spare time.
+Here you will find links to a variety of pages that I am involved with during me spare time.
 
 # [Painting]({{ '/pages/aboutme/paintings' | relative_url }})
 
