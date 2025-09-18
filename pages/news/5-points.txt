@@ -1,0 +1,32 @@
+# Top five key criteria for a data curator
+
+I was recently posed the question "As the data guru that you are, what are the five key points of data curation that you would emphasise to junior curators?". Which was obviously designed to see what my instinctive answers would be, and I think I covered the ground pretty well given zero preparation time. But upon reflection I thought it was such a good question that I would give it more thought and really define those 5 things, so that in the event I ever get asked again I will have a more definitive answer.
+
+## 1. Understand the stakeholders
+So this was the first point I brought up on the fly, and I still believe it should be top of the list. It's vital to understand the stakeholders deeply. Spend time with the analysts, researchers, and business stakeholders to really get to grips with how they actually want to use the data, what questions they're trying to answer, and what level of granularity they need. Metadata that's technically perfect but practically unusable is just a waste of everyones' time and energy.
+
+## 2. Documentation
+This is your professional legacy, so create comprehensive metadata and maintain detailed provenance records for every dataset you touch. Future users, including yourself six months from now, need to understand the data's origin, quality issues encountered, transformations/fixes applied, and the business context. Poor documentation turns valuable data into digital archaeology projects.
+
+## 3. Automate where possible
+Now this is one of the key criteria that I forgot to mention off the top of my head, but it is an important one when it comes to getting the job done!
+The routine curation should be done in batch or by automated processes so that you, the expert, can focus on the more complex issues. Identify repetitive validation and transformation tasks that can be scripted or systematised. This frees up your cognitive capacity for the nuanced decisions that require human judgment, like resolving semantic inconsistencies or determining how to handle edge cases in the business rules.
+
+## 4. Feedback and communication
+This is perhaps closely related to point 1. You must ensure stakeholders and users have a mechanism to be able to feedback on usage to learn when your curation decisions helped or hindered downstream work. Set up regular stakeholder meetings to monitor how datasets are being used and be prepared to iterate on your approaches. The best curators are constantly refining their craft based on real-world outcomes.
+
+## 5. Quality is non-negotiable. 
+I feel like this is meant to be a given and shouldn't really need to be included on the list, but the fact remains that data curation (or any sort of curation) requires attention to details and is expected to give a degree of assurance in quality to users and stakeholders. Therefore, quality must be a key criterion that all curators need to meet. 
+Establish rigorous validation processes early rather than trying to clean up messy data later. This means implementing systematic checks for completeness, consistency, accuracy, and format compliance at every stage of data ingestion. A single poorly curated dataset can undermine years of analytical work and erode stakeholder trust.
+
+## Nearly top five
+So, with the five key criteria mastered, what else should be considered to ensure a high standard of data curation? Well, there are many aspects that could be included and that's why there are entire degree and postgraduate courses dedicated to the topic! While I can't go through everything in depth here, I can list a few more points that almost made it into the top 5:
+
+Domain expertise - You need to develop an expert understanding of the particular area of the data, it may not be essential to get started as a junior curator, but it will become vital as your responsibilities grow in a role.
+
+Performance optimisation and monitoring - The nature of curation means that it can be very difficult to monitor performance as no two datasets are ever the same. So setting up some KPIs to help monitor and optimise performance will ensure the team is performing to its best.
+
+Version control and ownership - From a practical point of view a curator needs to know who owns the data and how much control they have over versioning and changes. Ideally the data schema, any transformation scripts and business rules will be properly documented licensed and version controlled.
+
+Disaster recovery planning - No one wants to think about the worst-case scenario, but if you're investing potentially thousands of person hours into data curation you need to know that all that work will not be lost if the power goes out, or if someone runs the wrong SQL query! Have a backup plan and stick to it.
+
