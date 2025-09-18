@@ -20,11 +20,10 @@ author: Chris Hunter
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Projects: "https://only1chunts.github.io/ChrisHunter/pages/projects"
-    - Painting: "https://only1chunts.github.io/ChrisHunter/pages/paintings"
-  Author's Home: "https://only1chunts.github.io/ChrisHunter/"
+  About me: "https://only1chunts.github.io/ChrisHunter/pages/aboutme/"
+  Blogs & Articles: "https://only1chunts.github.io/ChrisHunter/pages/news"
+  Services: "https://only1chunts.github.io/ChrisHunter/pages/services/"
+  Home: "https://only1chunts.github.io/ChrisHunter/"
 
 ################
 # --- Logo --- #
