@@ -39,4 +39,9 @@ If you have a scrum team working on a product that requires an experienced scrum
 Using GitHub pages I have created multiple website, including this one! So if you need something relatively simple (that can be achieved using GitHub pages) to showcase yourself or your work I can assist with that.
 
 
-Contact me with your requirements for a estimated cost.
+
+# Let's Discuss Your Project
+Whether you're dealing with terabytes of sequencing data, need help with publication requirements, or want to establish robust data management practices, I'm here to help. Get in touch to discuss how we can work together to achieve your research goals.
+
+Excellence in data management isn't just about storage—it's a matter of metadata!
+
