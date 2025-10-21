@@ -20,7 +20,7 @@ When you have multiple sources of data that need to be combined into a single da
 
 
 # [Biocuration tasks]({{ '/pages/services/biocuration-tasks' | relative_url }})
-Extract relevant information on specicif biological artifacts from literature or other sources.
+Extract relevant information on specific biological artifacts from literature or other sources.
 
 
 # [Ontology mapping]({{ '/pages/services/ontology-mapping' | relative_url }})
