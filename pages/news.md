@@ -15,6 +15,9 @@ On rare occassions I write a piece on a topic that interests me and post them in
 
 ## [Five key points for data curators](https://www.linkedin.com/pulse/top-five-key-criteria-data-curator-christopher-hunter-5a53e)
 
+
+## [FAIR Data vs Open Data: What's the Difference?](https://www.linkedin.com/pulse/fair-data-vs-open-whats-difference-christopher-hunter-v96nf)
+
 ## [Various conference blogs hosted on RogueScholar](https://rogue-scholar.org/search?q=orcid%3A0000-0002-1335-0881&l=list&p=1&s=10&sort=newest)
 
 
